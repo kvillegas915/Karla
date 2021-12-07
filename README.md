@@ -17,3 +17,6 @@ gnome-disk-utility| Administra las unidades de almacenamiento de escritorio|
 kill-9 $PID| Para matar un proceso|
 ps --aux| Sirve para ver todos los Ids de los programas o procesos|
 greg| Muestra la localización de los procesos| greg -help|
+pwd| Directorio actuar donde está uno|
+nano|Editor de Texto|
+cat| Leer datos de archivos y mostar su contenido| cat/var/log/syslog|
